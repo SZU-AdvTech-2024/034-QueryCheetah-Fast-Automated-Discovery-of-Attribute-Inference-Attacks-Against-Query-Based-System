@@ -1,0 +1,9 @@
+@inproceedings{REPO034,
+    author = "Stevanoski, Bozhidar and Cretu, Ana-Maria and de Montjoye, Yves-Alexandre",
+    booktitle = "Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security",
+    numpages = "15",
+    pages = "3451–3465",
+    publisher = "Association for Computing Machinery",
+    title = "{QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems}",
+    year = "2024"
+}
